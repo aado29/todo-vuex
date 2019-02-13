@@ -1,4 +1,4 @@
-# vuex-presentation
+# todo-vuex
 
 ## Project setup
 ```
