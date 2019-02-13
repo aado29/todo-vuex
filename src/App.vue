@@ -15,3 +15,10 @@ export default {
   }
 }
 </script>
+
+<style>
+#app {
+  font-family: 'Arial';
+  height: 100vh;
+}
+</style>
